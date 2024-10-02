@@ -1,4 +1,4 @@
-# React Native Comparison Slider Next
+# Native Image Comparison Slider
 
 Compare any two components side by side in your React Native app.
 

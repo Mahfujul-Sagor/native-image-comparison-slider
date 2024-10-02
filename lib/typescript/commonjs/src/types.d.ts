@@ -1,5 +1,5 @@
 import React from 'react';
-import { Animated, type ViewStyle } from 'react-native';
+import { Animated, type ViewStyle, type ImageSourcePropType, type ImageResizeMode } from 'react-native';
 export interface ISize {
     width: number;
     height: number;
@@ -16,13 +16,14 @@ export interface ISliderProps extends IDefaultSliderProps {
     separationLineStyles?: ViewStyle;
 }
 export interface ICompareSlider {
-    before: React.ReactNode;
-    after: React.ReactNode;
+    before: ImageSourcePropType | string;
+    after: ImageSourcePropType | string;
     containerSize: ISize;
     sliderSize?: ISize;
     SliderComponent?: React.ReactNode;
     sliderStyles?: ViewStyle;
     showSeparationLine?: boolean;
     separationLineStyles?: ViewStyle;
+    resizeMode?: ImageResizeMode;
 }
 //# sourceMappingURL=types.d.ts.map

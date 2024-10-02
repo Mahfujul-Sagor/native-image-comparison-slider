@@ -3,5 +3,5 @@ export declare const DEFAULT_SLIDER_SIZE: {
     width: number;
     height: number;
 };
-export declare const SLIDER_ARROW_SIZE = 6;
+export declare const SLIDER_ARROW_SIZE = 5;
 //# sourceMappingURL=constants.d.ts.map
