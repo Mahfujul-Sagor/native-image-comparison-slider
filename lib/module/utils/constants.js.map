@@ -1,0 +1,1 @@
+{"version":3,"names":["SLIDER_SIZE","DEFAULT_SLIDER_SIZE","width","height","SLIDER_ARROW_SIZE"],"sourceRoot":"../../../src","sources":["utils/constants.ts"],"mappings":";;AAAA,OAAO,MAAMA,WAAW,GAAG,EAAE;AAC7B,OAAO,MAAMC,mBAAmB,GAAG;EAAEC,KAAK,EAAEF,WAAW;EAAEG,MAAM,EAAEH;AAAY,CAAC;AAE9E,OAAO,MAAMI,iBAAiB,GAAG,CAAC","ignoreList":[]}
