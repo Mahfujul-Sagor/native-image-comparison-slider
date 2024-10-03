@@ -1,6 +1,6 @@
 # Native Image Comparison Slider
 
-Compare any two components side by side in your React Native app.
+Compare any two images side by side in your React Native app.
 
 ![Example](./example/assets/example.gif)
 
