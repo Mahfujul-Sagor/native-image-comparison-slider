@@ -1,6 +1,6 @@
 {
   "name": "@mahfujul-sagor/native-image-comparison-slider",
-  "version": "0.1.4",
+  "version": "0.1.4.2",
   "description": "Compare any two images",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
