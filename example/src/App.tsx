@@ -1,5 +1,5 @@
 import { StyleSheet, View, Dimensions } from 'react-native';
-import { CompareSlider } from 'native-image-comparison-slider';
+import { CompareSlider } from '@mahfujul-sagor/native-image-comparison-slider';
 
 const windowWidth = Dimensions.get('window').width;
 const windowHeight = Dimensions.get('window').height;

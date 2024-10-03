@@ -9,7 +9,7 @@ Compare any two images side by side in your React Native app.
 To install the package, run the following command:
 
 ```
-npm install native-image-comparison-slider
+npm install @mahfujul-sagor/native-image-comparison-slider
 ```
 
 ## Props
@@ -31,7 +31,7 @@ npm install native-image-comparison-slider
 Here's a basic example of how to use the `CompareSlider` component:
 
 ```jsx
-import { CompareSlider } from 'native-image-comparison-slider';
+import { CompareSlider } from '@mahfujul-sagor/native-image-comparison-slider';
 
 const beforeImage = require('./path/to/beforeImage.png');
 const afterImage = require('./path/to/afterImage.png');
