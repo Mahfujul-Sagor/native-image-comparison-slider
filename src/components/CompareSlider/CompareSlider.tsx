@@ -42,7 +42,7 @@ export const CompareSlider: React.FC<ICompareSlider> = (props) => {
         >
           <Image
             source={typeof before === 'string' ? { uri: before } : before}
-            style={{ width: '100%', height: '100%' }}
+            style={{ width: containerWidth, height: containerHeight }}
             resizeMode={resizeMode}
           />
         </Animated.View>
@@ -55,7 +55,7 @@ export const CompareSlider: React.FC<ICompareSlider> = (props) => {
           >
             <Image
               source={typeof after === 'string' ? { uri: after } : after}
-              style={{ width: '100%', height: '100%' }}
+              style={{ width: containerWidth, height: containerHeight }}
               resizeMode={resizeMode}
             />
           </Animated.View>
