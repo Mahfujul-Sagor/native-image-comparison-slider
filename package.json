@@ -1,5 +1,5 @@
 {
-  "name": "@mahfujul-sagor/native-image-comparison-slider",
+  "name": "native-image-comparison-slider",
   "version": "0.1.6",
   "description": "Compare any two images",
   "source": "./src/index.tsx",
