@@ -12,6 +12,12 @@ To install the package, run the following command:
 npm install @mahfujul-sagor/native-image-comparison-slider
 ```
 
+or
+
+```
+npm i native-image-comparison-slider
+```
+
 ## Props
 
 | Prop                   | Type                                 | Required | Default Value                       | Description                                    |
@@ -32,6 +38,8 @@ Here's a basic example of how to use the `CompareSlider` component:
 
 ```jsx
 import { CompareSlider } from '@mahfujul-sagor/native-image-comparison-slider';
+// or
+// import { CompareSlider } from 'native-image-comparison-slider';
 
 const beforeImage = require('./path/to/beforeImage.png');
 const afterImage = require('./path/to/afterImage.png');
